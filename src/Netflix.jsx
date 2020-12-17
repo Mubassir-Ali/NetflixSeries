@@ -1,8 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import Sdata from './Sdata';
-import './index.css';
-import App from './App'
+import Cards from './Cards';
+
 
 const nfSeries =[];
 const azSeries=[];
@@ -24,4 +23,3 @@ Sdata.map(function(val,index,arr){
 
 console.log(azSeries);
 
-ReactDOM.render(<App/>,document.getElementById('root'));

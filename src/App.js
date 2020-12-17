@@ -8,7 +8,7 @@ const App=()=>(
         <h1>List of Top 5 Netflix Original Series</h1>
     
         {Sdata.map((val, index)=>{
-          console.log(index);
+          
           
             return(
             <Cards
