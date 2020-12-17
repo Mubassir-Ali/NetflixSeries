@@ -30,7 +30,13 @@ const Sdata =[
         title:"A Netflix Original Series",
         sname:"MINDHUNTER",
         link:"https://www.netflix.com/pk/title/80114855",
-    }
+    },
+    {
+        imgsrc:"https://occ-0-3736-58.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTXK5Gs51kpod43dfThIA0RLPIj7TPH77eZEUHWnbuH6evnIzxkxxuFd4TI1VN5rpFRyByzbH4Hq9efC4qfWevlDPvaG.jpg?r=236",
+        title:"A Netflix Original Series",
+        sname:"The Crown",
+        link:"https://www.netflix.com/pk/title/80025678",
+    },
  
 ];
 
