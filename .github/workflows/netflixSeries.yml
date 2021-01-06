@@ -32,7 +32,7 @@ jobs:
       # Install yarn
       - uses: borales/actions-yarn@v2.0.0
         with:
-          run: yarn install
+          cmd: yarn
       
       # Build React App with yarn
       - name: Build react app
