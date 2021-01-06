@@ -34,4 +34,4 @@ jobs:
       - name: setup surge
         run: npm install -global surge
       - name: Execute Deployment with surge
-        run: surge ./ project-netflix-top-5-series.surge.sh --token ${{secret.surge-token}}
+        run: surge ./ project-netflix-top-5-series.surge.sh --token ${{secret.SURGETOKEN}}
